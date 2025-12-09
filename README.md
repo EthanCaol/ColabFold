@@ -5,4 +5,3 @@
 ```bash
 bash install.sh
 colabfold_batch demo.fasta output/
-```
