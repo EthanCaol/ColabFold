@@ -4,4 +4,5 @@
 
 ```bash
 bash install.sh
-colabfold_batch demo.fasta output/
+alias colabfold_batch='/home/ethan/ColabFold/localcolabfold/colabfold-conda/bin/colabfold_batch --disable-unified-memory'
+colabfold_batch demo.fasta output/ --msa-mode 
